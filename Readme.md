@@ -135,8 +135,8 @@ python scripts/process_incoming.py
 
 ---
 
+## Acknowledgements
 
-
-
-
+This project was built as part of the **Job Ready Data Science** course by [CodeWithHarry](https://www.codewithharry.com/).  
+Thanks to Haris Ali Khan (CodeWithHarry) for the course content and project guidance.
 
