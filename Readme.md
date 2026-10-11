@@ -134,7 +134,7 @@ python scripts/process_incoming.py
 - Provide interactive dashboard features for easy query testing and verification  
 
 ---
-<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
 
 
 
