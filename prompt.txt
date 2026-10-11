@@ -1,0 +1,6 @@
+I am test project. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"04_Paragraph Element","number":"04_Paragraph","start":176.88,"end":179.04,"text":" The HTML is saved by tags."},{"title":"01_Introduction to HTML","number":"01_Introduction","start":7.0,"end":8.28,"text":" Now, what is HTML?"}]
+------------------------
+"What are semantic HTML tags?"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user askes unrelated question, tell him that you can only answer questions related to the data provided
