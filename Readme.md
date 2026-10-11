@@ -137,9 +137,6 @@ python scripts/process_incoming.py
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 
-**Bhavya Patela** <br>
-💼 Data Analyst <br>
-📧 Email: bhavyaatwork2026@gmail.com <br>
-🔗 [LinkedIn](https://www.linkedin.com/in/bhavya-patela-526a38322/)
+
 
 
